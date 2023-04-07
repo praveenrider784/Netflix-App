@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Netflix-clone",
+    "slug": "Netflix-clone",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Netflix.webp",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/Netflix.webp",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
